@@ -20,4 +20,4 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Contact
 
-- Electronic mail address : jp711@cam.ac.uk
+- Electronic mail address : jp711 (at) cam.ac.uk
