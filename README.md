@@ -1,6 +1,8 @@
 <img src="https://jiwoon-park-math.github.io/temporary.jpg" width="250" height="300">
 
-I am a math PhD student in the [Statistical Laboratory](http://www.statslab.cam.ac.uk), at the [University of Cambridge](https://www.cam.ac.uk).
+# Jiwoon Park / 박지운
+
+I am a math PhD student in the [Statistical Laboratory](http://www.statslab.cam.ac.uk), at the [University of Cambridge](https://www.cam.ac.uk). My supervisor is [Roland Bauerschmidt](http://www.statslab.cam.ac.uk/~rb812/).
 
 ## Research Interests
 
