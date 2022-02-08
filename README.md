@@ -2,18 +2,12 @@ I am a math PhD student in the [Statistical Laboratory](http://www.statslab.cam.
 
 ## Research Interests
 
-My main field of research is the lattice field theory.
+My main field of research interest is the lattice field theory, which is in the intersection of probability theory and mathematical physics. 
 
 ## Pulications
 
-```
-Title : The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature
-Link : https://arxiv.org/abs/2202.02287
-Preprint
-```
+- [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://arxiv.org/abs/2202.02287)
+  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
 
-```
-Title : The Discrete Gaussian model, I. Renormalisation group flow at high temperature
-Link : https://arxiv.org/abs/2202.02286
-Preprint
-```
+- [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://arxiv.org/abs/2202.02286)
+  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
