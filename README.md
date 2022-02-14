@@ -10,7 +10,7 @@ I am a math PhD student in the [CCIMI](https://www.ccimi.maths.cam.ac.uk), at th
 
 ## Research Interests
 
-My main field of research interest is the lattice field theory, which is in the intersection of probability theory and mathematical physics. 
+My main research field is the lattice field theory, which is in the intersection of probability theory and mathematical physics. 
 
 I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalization_group) method.
 
