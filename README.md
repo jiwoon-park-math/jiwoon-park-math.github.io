@@ -22,6 +22,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://arxiv.org/abs/2202.02286)
   - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
 
+## Pulications
+
+
 ## Contact
 
 - Electronic mail address : jp711 (at) cam (dot) ac (dot) uk
