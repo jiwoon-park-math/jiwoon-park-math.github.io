@@ -25,7 +25,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Resources
 
 - [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/1st_March_percolation_today.pdf)
-- [UBC probability](https://secure.math.ubc.ca/Links/Probability//) probability seminar on 2nd March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
+- [UBC probability](https://secure.math.ubc.ca/Links/Probability) seminar on 2nd March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
 
 ## Contact
 
