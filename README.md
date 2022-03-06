@@ -22,8 +22,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://arxiv.org/abs/2202.02286)
   - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
 
-## Pulications
+## Resources
 
+- Slides for [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022 : [link]()
+
+<embed src="https://jiwoon-park-math.github.io/1st_March_percolation_today.pdf" type="application/pdf" />
 
 ## Contact
 
