@@ -24,9 +24,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Resources
 
-- Slides for [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022 : [link]()
-
-<embed src="https://jiwoon-park-math.github.io/1st_March_percolation_today.pdf" type="application/pdf" />
+- Slides for [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022 : [link](<embed src="https://jiwoon-park-math.github.io/1st_March_percolation_today.pdf" type="application/pdf" />)
 
 ## Contact
 
