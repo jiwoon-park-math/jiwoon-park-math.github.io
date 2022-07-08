@@ -17,15 +17,17 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Pulications
 
 - [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://arxiv.org/abs/2202.02287)
-  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
+  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2022)
 
 - [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://arxiv.org/abs/2202.02286)
-  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodrigues (2022)
+  - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2022)
 
-## Resources
+## Talks
 
 - [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/1st_March_percolation_today.pdf)
-- [UBC probability](https://secure.math.ubc.ca/Links/Probability) seminar on 2nd March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
+- [UBC, Vancouver, Canada](https://secure.math.ubc.ca/Links/Probability) UBC probability seminar on 2nd March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
+- [OWPS](https://www.owprobability.org) One World Probabilty Seminar, May, 2022, joint with Pierre-Fran\c{c}ois Rodriguez
+- [Technion, Israel](https://cms-math.net.technion.ac.il/challenges-in-probability-and-statistical-mechanics-3/) Challenges in Probability and Statistical Mechanics, June, 2022
 
 ## Contact
 
