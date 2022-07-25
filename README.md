@@ -28,7 +28,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [UBC, Vancouver, Canada](https://secure.math.ubc.ca/Links/Probability) UBC probability seminar on 2nd March, 2022 : [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
 - [OWPS](https://www.owprobability.org) One World Probabilty Seminar, May, 2022, joint with Pierre-Fran\c{c}ois Rodriguez
 - [Technion, Israel](https://cms-math.net.technion.ac.il/challenges-in-probability-and-statistical-mechanics-3/) Challenges in Probability and Statistical Mechanics, June, 2022
-- [MFO, Germany](https://www.mfo.de) The Renormalisation group workshop, July, 2022
+- [MFO, Germany](https://www.mfo.de) The renormalisation group workshop, July, 2022
 
 ## Contact
 
