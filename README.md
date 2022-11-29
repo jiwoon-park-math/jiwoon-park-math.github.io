@@ -18,6 +18,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Publications
 
+- [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://arxiv.org/abs/2211.14367)
+  - Preprint (2022)
+
 - [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://arxiv.org/abs/2202.02287)
   - Preprint, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2022)
 
