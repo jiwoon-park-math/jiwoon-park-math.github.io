@@ -36,7 +36,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [MFO, Germany](https://www.mfo.de) The renormalisation group workshop, July, 2022
 - [University of Cambridge](https://talks.cam.ac.uk/show/archive/9938) Cambridge Probability Seminar, October, 2022
 - [KAIST, South Korea](https://saarc.kaist.ac.kr/boards/view/seminars/91) SAARC Seminar, January, 2023
-- [KIAS](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720230113-0003&menuNo=404003) Analysis, PDE & Probability Seminar, January, 2023
+- [KIAS, South Korea](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720230113-0003&menuNo=404003) Analysis, PDE & Probability Seminar, January, 2023
 
 ## Contact
 
