@@ -34,7 +34,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [OWPS](https://www.owprobability.org) One World Probabilty Seminar, May, 2022, joint with Pierre-Fran\c{c}ois Rodriguez
 - [Technion, Israel](https://cms-math.net.technion.ac.il/challenges-in-probability-and-statistical-mechanics-3/) Challenges in Probability and Statistical Mechanics, June, 2022
 - [MFO, Germany](https://www.mfo.de) The renormalisation group workshop, July, 2022
-- [University of Cambridge](https://talks.cam.ac.uk/show/archive/9938) Cambridge Probability Seminar, October, 2022
+- [University of Cambridge, UK](https://talks.cam.ac.uk/show/archive/9938) Cambridge Probability Seminar, October, 2022
 - [KAIST, South Korea](https://saarc.kaist.ac.kr/boards/view/seminars/91) SAARC Seminar, January, 2023
 - [KIAS, South Korea](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720230113-0003&menuNo=404003) Analysis, PDE & Probability Seminar, January, 2023
 
