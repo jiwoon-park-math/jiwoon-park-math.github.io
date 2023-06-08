@@ -18,7 +18,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Publications
 
-- [Boundary conditions and universal finite-size scaling for the hierarchical |φ|4 model in dimensions 4 and higher](https://arxiv.org/abs/2306.00896)
+- [Boundary conditions and universal finite-size scaling for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://arxiv.org/abs/2306.00896)
   - Preprint, Joint work with Emmanuel Michta and Gordon Slade (2023)
 
 - [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://arxiv.org/abs/2211.14367)
