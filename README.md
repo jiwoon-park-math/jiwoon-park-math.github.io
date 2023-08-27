@@ -41,7 +41,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [KAIST, South Korea](https://saarc.kaist.ac.kr/boards/view/seminars/91) SAARC Seminar, January, 2023
 - [KIAS, South Korea](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720230113-0003&menuNo=404003) Analysis, PDE & Probability Seminar, January, 2023
 - [Università Roma Tre, Italy](https://matematicafisica.uniroma3.it/articoli/seminario-di-fisica-matematica-339425) Mathematical Physics Seminar, June, 2023
-- [University of Warwick, Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/) Statistical Physics Seminar, August, 2023
+- [University of Warwick, UK](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/) Mathematics Institute Statistical Physics Seminar, August, 2023
 
 ## Contact
 
