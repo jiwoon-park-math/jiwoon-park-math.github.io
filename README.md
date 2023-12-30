@@ -8,7 +8,11 @@
 
 # Jiwoon Park / 박지운
 
-I am a math PhD student in the [CCIMI](https://www.ccimi.maths.cam.ac.uk), at the [University of Cambridge](https://www.cam.ac.uk). My supervisor is [Roland Bauerschmidt](http://www.statslab.cam.ac.uk/~rb812/), in the [Statistical Laboratory](http://www.statslab.cam.ac.uk).
+I am currently working for South Korean government.
+
+## Background
+
+I was a math PhD student in the [CCIMI](https://www.ccimi.maths.cam.ac.uk), at the [University of Cambridge](https://www.cam.ac.uk). My supervisor was [Roland Bauerschmidt](https://cims.nyu.edu/~bauerschmidt/).
 
 ## Research Interests
 
