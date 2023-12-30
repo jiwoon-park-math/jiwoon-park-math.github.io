@@ -8,7 +8,7 @@
 
 # Jiwoon Park / 박지운
 
-I am currently working for South Korean government.
+I am currently working for the government of South Korean.
 
 ## Background
 
