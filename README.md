@@ -49,4 +49,5 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Contact
 
-- Electronic mail address: jp711 (at) cam (dot) ac (dot) uk
+- Electronic mail address: jp711 (at) cantab (dot) ac (dot) uk
+- My previous email address jp711 (at) cam (dot) ac (dot) uk has expired!
