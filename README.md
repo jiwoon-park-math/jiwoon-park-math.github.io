@@ -22,6 +22,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Publications
 
+- [Boundary conditions and the two-point function plateau for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://arxiv.org/abs/2405.17344)
+  - Preprint, Joint work with Gordon Slade (2024)
+
 - [Boundary conditions and universal finite-size scaling for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://arxiv.org/abs/2306.00896)
   - Preprint, Joint work with Emmanuel Michta and Gordon Slade (2023)
 
@@ -53,4 +56,4 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Contact
 
 - Electronic mail address: jp711 (at) cantab (dot) ac (dot) uk
-- My previous email address jp711 (at) cam (dot) ac (dot) uk has expired!
+<!-- %: - My previous email address jp711 (at) cam (dot) ac (dot) uk has expired!
