@@ -12,7 +12,7 @@ I am currently working for the government of South Korea.
 
 ## Background
 
-I was a math PhD student in the [CCIMI](https://www.ccimi.maths.cam.ac.uk), at the [University of Cambridge](https://www.cam.ac.uk). My supervisor was [Roland Bauerschmidt](https://cims.nyu.edu/~bauerschmidt/).
+I attained a Ph.D. degree in mathematics at the [University of Cambridge](https://www.cam.ac.uk). My advisor was [Roland Bauerschmidt](https://cims.nyu.edu/~bauerschmidt/).
 
 ## Research Interests
 
