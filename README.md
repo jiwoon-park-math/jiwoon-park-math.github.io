@@ -8,7 +8,7 @@
 
 # Jiwoon Park / 박지운
 
-I am currently working for the government of South Korea (mainly brushing and cleaning goverment facilities).
+I am currently working for the government of South Korea (mainly brooming and cleaning goverment facilities).
 
 ## Background
 
