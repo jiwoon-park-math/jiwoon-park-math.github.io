@@ -14,6 +14,8 @@ I am currently working for the government of South Korea.
 
 I attained a Ph.D. degree in mathematics at the [University of Cambridge](https://www.cam.ac.uk). My advisor was [Roland Bauerschmidt](https://cims.nyu.edu/~bauerschmidt/).
 
+- Here is a link to my thesis: [Two-Dimensional Discrete Gaussian Model at High Temperature](https://www.repository.cam.ac.uk/items/11ecd706-f552-4cb2-a331-1b351ccb38f1)
+
 ## Research Interests
 
 My main research field is the lattice field theory, which is in the intersection of probability theory and mathematical physics. 
