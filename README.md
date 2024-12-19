@@ -48,8 +48,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 - ADD-KAFA joint seminar, November, 2024
 - [Seoul National University](https://www.kms.or.kr/event/view.html?code=&num=1049) BK21 Four Rookies Pitch, May, 2024
-- [2024 KMS Spring Meeting](https://www.kms.or.kr/conference/2024_spring/) Contributed talk on Probability & Statistics, April, 2024
-<!-- %: [slides](https://jiwoon-park-math.github.io/resources/KMS_Slides.pdf) -->
+- [2024 KMS Spring Meeting](https://www.kms.or.kr/conference/2024_spring/) Contributed talk on Probability & Statistics, April, 2024 <!-- %: [slides](https://jiwoon-park-math.github.io/resources/KMS_Slides.pdf) -->
 - [University College London, UK](https://www.ucl.ac.uk/statistics/seminar) Statistical Science Seminar, February, 2024
 - [University of Warwick, UK](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/) Mathematics Institute Statistical Physics Seminar, August, 2023
 - [Università Roma Tre, Italy](https://matematicafisica.uniroma3.it/articoli/seminario-di-fisica-matematica-339425) Mathematical Physics Seminar, June, 2023
