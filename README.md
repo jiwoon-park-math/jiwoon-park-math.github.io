@@ -46,7 +46,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Talks
 
-- [Probability Workshop in Korea 2025]([https://sites.google.com/view/wpmp2024](https://sites.google.com/view/pwk2025/home]), January, 2025
+- [Probability Workshop in Korea 2025](https://sites.google.com/view/pwk2025/home), January, 2025
 - [Workshop on Probability and Mathematical Physics in Gimhae 2024](https://sites.google.com/view/wpmp2024), November, 2024
 - ADD-KAFA joint seminar, November, 2024
 - [Seoul National University](https://www.kms.or.kr/event/view.html?code=&num=1049) BK21 Four Rookies Pitch, May, 2024
