@@ -27,8 +27,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [Universal finite-size scaling in high-dimensional critical phenomena](https://arxiv.org/abs/2412.08814)
   - Preprint, Joint work with Yucheng Liu and Gordon Slade (2024)
 
-- [Boundary conditions and the two-point function plateau for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://arxiv.org/abs/2405.17344)
-  - Preprint, Joint work with Gordon Slade (2024)
+- [Boundary conditions and the two-point function plateau for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://doi.org/10.1007/s00023-025-01566-y)
+  - Annales Henri Poincaré, Joint work with Gordon Slade (2025)
+  - [arXiv](https://arxiv.org/abs/2405.17344)
 
 - [Boundary conditions and universal finite-size scaling for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://arxiv.org/abs/2306.00896)
   - Preprint, Joint work with Emmanuel Michta and Gordon Slade (2023)
@@ -37,11 +38,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
   - Preprint (2022)
 
 - [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://projecteuclid.org/journals/annals-of-probability/volume-52/issue-4/The-Discrete-Gaussian-model-I-Renormalisation-group-flow-at-high/10.1214/23-AOP1658.short)
-  - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2022)
+  - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02287)
 
 - [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://projecteuclid.org/journals/annals-of-probability/volume-52/issue-4/The-discrete-Gaussian-model-II-Infinite-volume-scaling-limit-at/10.1214/23-AOP1659.short)
-  - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2022)
+  - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02286)
 
 ## Talks
