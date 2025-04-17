@@ -37,11 +37,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://arxiv.org/abs/2211.14367)
   - Preprint (2022)
 
-- [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://projecteuclid.org/journals/annals-of-probability/volume-52/issue-4/The-Discrete-Gaussian-model-I-Renormalisation-group-flow-at-high/10.1214/23-AOP1658.short)
+- [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://doi.org/10.1214/23-AOP1659)
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02287)
 
-- [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://projecteuclid.org/journals/annals-of-probability/volume-52/issue-4/The-discrete-Gaussian-model-II-Infinite-volume-scaling-limit-at/10.1214/23-AOP1659.short)
+- [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://doi.org/10.1214/23-AOP1658)
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02286)
 
