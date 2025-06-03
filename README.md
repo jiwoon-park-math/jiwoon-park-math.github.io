@@ -48,6 +48,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Talks
 
+- [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/) Contributed talk on the Focus Session "Statistical Mechanics and Probability: Theory and Applications of Probabilistic Physical Models", April, 2025
 - [Probability Workshop in Korea 2025](https://sites.google.com/view/pwk2025/home), January, 2025
 - [Workshop on Probability and Mathematical Physics in Gimhae 2024](https://sites.google.com/view/wpmp2024), November, 2024
 - [ADD](https://www.add.re.kr/kps)-[KAFA](https://rokaf.airforce.mil.kr/afa/index.do) joint seminar, November, 2024
