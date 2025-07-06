@@ -36,7 +36,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
   - [arXiv](https://arxiv.org/abs/2306.00896)
 
 - [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://arxiv.org/abs/2211.14367)
-  - Preprint (2022)
+  - Preprint (2022), to appear in Communications in Mathematical Physics
 
 - [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://doi.org/10.1214/23-AOP1659)
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
@@ -48,6 +48,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Talks
 
+- [Probability Summer School in Korea 2025](https://sites.google.com/view/pssk2025/) Invited talk, June, 2025
 - [SNU Probability Group](https://sites.google.com/view/snuprob/seminar/intensive-lecture-series?authuser=0) Intensive Lecture Series, May-June, 2025 (4 hours)
 - [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/) Contributed talk on the Focus Session "Statistical Mechanics and Probability: Theory and Applications of Probabilistic Physical Models", April, 2025
 - [Probability Workshop in Korea 2025](https://sites.google.com/view/pwk2025/home), January, 2025
