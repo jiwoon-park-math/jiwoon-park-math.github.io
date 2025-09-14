@@ -73,8 +73,3 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 - Electronic mail address: jp711 (at) cantab (dot) ac (dot) uk
 <!-- %: - My previous email address jp711 (at) cam (dot) ac (dot) uk has expired! -->
-
-## Other writings
-<nav>
-  <a href="book_log.html">Book logs</a>
-</nav>
