@@ -35,8 +35,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
   - Communications on Pure and Applied Mathematics, Joint work with Emmanuel Michta and Gordon Slade (2025)
   - [arXiv](https://arxiv.org/abs/2306.00896)
 
-- [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://arxiv.org/abs/2211.14367)
-  - Preprint (2022), to appear in Communications in Mathematical Physics
+- [Central Limit Theorem for Multi-Point Functions of the 2D Discrete Gaussian Model at high temperature](https://doi.org/10.1007/s00220-025-05396-1)
+  - Communications in Mathematical Physics
+  - [arXiv](https://arxiv.org/abs/2211.14367)
 
 - [The Discrete Gaussian model, II. Infinite-volume scaling limit at high temperature](https://doi.org/10.1214/23-AOP1659)
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
