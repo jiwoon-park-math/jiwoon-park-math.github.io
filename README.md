@@ -8,7 +8,9 @@
 
 # Jiwoon Park / 박지운
 
-I am currently working for the government of South Korea (mainly sweeping and cleaning goverment facilities).
+I am currently serving my mandatory military duty as an assistant professor at the Republic of Korea Air Force Academy.
+
+<!-- %: - I am currently working for the government of South Korea (mainly sweeping and cleaning goverment facilities). -->
 
 ## Background
 
