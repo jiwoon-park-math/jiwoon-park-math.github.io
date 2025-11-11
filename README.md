@@ -29,6 +29,10 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [Torus scaling limits and the plateau of the critical weakly coupled \|φ\|4 model in d≥4](https://arxiv.org/abs/2511.06321)
   - Preprint (2025)
 
+- [A Renormalisation Group Map for Short- and Long-ranged Weakly Coupled \|φ\|4 Models in d≥4 at and Above the Critical Point
+](https://arxiv.org/abs/2511.03495)
+  - Preprint (2025)
+
 - [Boundary conditions and the two-point function plateau for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://doi.org/10.1007/s00023-025-01566-y)
   - Annales Henri Poincaré, Joint work with Gordon Slade (2025)
   - [arXiv](https://arxiv.org/abs/2405.17344)
