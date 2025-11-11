@@ -24,10 +24,10 @@ My main research field is the lattice field theory, which is in the intersection
 
 I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalization_group) method.
 
-## Publications
+## Publications and Preprints
 
-- [Universal finite-size scaling in high-dimensional critical phenomena](https://arxiv.org/abs/2412.08814)
-  - Preprint, Joint work with Yucheng Liu and Gordon Slade (2024)
+- [Torus scaling limits and the plateau of the critical weakly coupled \|φ\|4 model in d≥4](https://arxiv.org/abs/2511.06321)
+  - Preprint (2025)
 
 - [Boundary conditions and the two-point function plateau for the hierarchical \|φ\|4 model in dimensions 4 and higher](https://doi.org/10.1007/s00023-025-01566-y)
   - Annales Henri Poincaré, Joint work with Gordon Slade (2025)
@@ -48,6 +48,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [The Discrete Gaussian model, I. Renormalisation group flow at high temperature](https://doi.org/10.1214/23-AOP1658)
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02286)
+
+## Other writings
+
+- [Universal finite-size scaling in high-dimensional critical phenomena](https://arxiv.org/abs/2412.08814)
+  - Preprint, Joint work with Yucheng Liu and Gordon Slade (2024)
 
 ## Talks
 
