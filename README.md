@@ -60,6 +60,8 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Talks
 
+- [Rigorous Statistical Mechanics and  Related Topics](https://sites.google.com/view/rigo-stat-phys-2025/home), November, 2025
+- [NYU Shanghai Probability Seminar](https://research.shanghai.nyu.edu/centers-and-institutes/math/events/probability-seminar-series-fall-2025), November, 2025
 - [Probability Summer School in Korea 2025](https://sites.google.com/view/pssk2025/) Invited talk, June, 2025
 - [SNU Probability Group](https://sites.google.com/view/snuprob/seminar/intensive-lecture-series?authuser=0) Intensive Lecture Series, May-June, 2025 (4 hours)
 - [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/) Contributed talk on the Focus Session "Statistical Mechanics and Probability: Theory and Applications of Probabilistic Physical Models", April, 2025
