@@ -63,7 +63,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [Rigorous Statistical Mechanics and  Related Topics](https://sites.google.com/view/rigo-stat-phys-2025/home), [RIMS](https://www.kurims.kyoto-u.ac.jp/en/index.html), November 2025, [slides](https://jiwoon-park-math.github.io/resources/RIMS2025.pdf)
 - [NYU Shanghai Probability Seminar](https://research.shanghai.nyu.edu/centers-and-institutes/math/events/probability-seminar-series-fall-2025), November 2025
 - [Probability Summer School in Korea 2025](https://sites.google.com/view/pssk2025/) Invited talk, June 2025
-- [SNU Probability Group](https://sites.google.com/view/snuprob/seminar/intensive-lecture-series?authuser=0) Intensive Lecture Series, May-June, 2025 (4 hours)
+- [SNU Probability Group](https://sites.google.com/view/snuprob/seminar/intensive-lecture-series?authuser=0) Intensive Lecture Series, May-June 2025 (4 hours)
 - [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/) Contributed talk on the Focus Session "Statistical Mechanics and Probability: Theory and Applications of Probabilistic Physical Models", April 2025
 - [Probability Workshop in Korea 2025](https://sites.google.com/view/pwk2025/home), January, 2025
 - [Workshop on Probability and Mathematical Physics in Gimhae 2024](https://sites.google.com/view/wpmp2024), November 2024
@@ -78,9 +78,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 - [University of Cambridge, UK](https://talks.cam.ac.uk/show/archive/9938) Cambridge Probability Seminar, October 2022
 - [MFO, Germany](https://www.mfo.de) The renormalisation group workshop, July 2022
 - [Technion, Israel](https://cms-math.net.technion.ac.il/challenges-in-probability-and-statistical-mechanics-3/) Challenges in Probability and Statistical Mechanics, June 2022
-- [OWPS](https://www.owprobability.org) One World Probabilty Seminar, May, 2022, joint with Pierre-Fran\c{c}ois Rodriguez
+- [OWPS](https://www.owprobability.org) One World Probabilty Seminar, May 2022, joint with Pierre-Fran\c{c}ois Rodriguez
 - [UBC, Vancouver, Canada](https://secure.math.ubc.ca/Links/Probability) UBC probability seminar on 2nd March, 2022: [slides](https://jiwoon-park-math.github.io/resources/2nd_March_UBC_Probability.pdf)
-- [Percolation Today](https://percolation.ethz.ch) talk on 1st March, 2022: [slides](https://jiwoon-park-math.github.io/resources/1st_March_percolation_today.pdf)
+- [Percolation Today](https://percolation.ethz.ch) talk on 1st March 2022: [slides](https://jiwoon-park-math.github.io/resources/1st_March_percolation_today.pdf)
 
 ## Contact
 
