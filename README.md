@@ -57,8 +57,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Other writings
 
-- [Universal finite-size scaling in high-dimensional critical phenomena](https://arxiv.org/abs/2412.08814)
-  - Preprint, Joint work with Yucheng Liu and Gordon Slade (2024)
+- [Universal finite-size scaling in high-dimensional critical phenomena](https://journals.aps.org/pre/abstract/10.1103/xq7j-zll9)
+  - Physical Review E, Joint work with Yucheng Liu and Gordon Slade (2026)
+  - [arXiv](https://arxiv.org/abs/2412.08814)
 
 ## Talks
 
