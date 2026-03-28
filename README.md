@@ -62,6 +62,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Talks
 
+- [UBC Probability seminar](https://secure.math.ubc.ca/Links/ProbSeminar), [UBC](https://secure.math.ubc.ca/Links/Probability/), January 2026
 - [Rigorous Statistical Mechanics and  Related Topics](https://sites.google.com/view/rigo-stat-phys-2025/home), [RIMS](https://www.kurims.kyoto-u.ac.jp/en/index.html), November 2025, [slides](https://jiwoon-park-math.github.io/resources/RIMS2025.pdf)
 - [NYU Shanghai Probability Seminar](https://research.shanghai.nyu.edu/centers-and-institutes/math/events/probability-seminar-series-fall-2025), November 2025
 - [Probability Summer School in Korea 2025](https://sites.google.com/view/pssk2025/) Invited talk, June 2025
