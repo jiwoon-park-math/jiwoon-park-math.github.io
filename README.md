@@ -28,6 +28,9 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Publications and Preprints
 
+- [Two dimensional Villain model in the BKT phase](https://arxiv.org/abs/2610.10083)
+  - Preprint (2026)
+
 - [Torus scaling limits and the plateau of the critical weakly coupled \|φ\|4 model in d≥4](https://arxiv.org/abs/2511.06321)
   - Preprint (2025)
 
