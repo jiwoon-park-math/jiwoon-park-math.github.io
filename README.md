@@ -58,7 +58,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
   - Annals of Probability, Joint work with Roland Bauerschmidt and Pierre-Fran\c{c}ois Rodriguez (2024)
   - [arXiv](https://arxiv.org/abs/2202.02286)
 
-## Public projects
+## Public Projects
 
 - [Ising model and $\phi^4$ model](https://github.com/jiwoonGit/phi4)
   - [Subproject 1](https://github.com/jiwoonGit/phi4/tree/main/fractional_spread_out_ising_rg): Correlation function of the fractional spread-out Ising models at
