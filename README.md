@@ -61,7 +61,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Public projects
 
 - [Ising model and $\phi^4$ model](https://github.com/jiwoonGit/phi4)
-  - [Subproject 1](https://github.com/jiwoonGit/phi4/fractional_spread_out_ising_rg): The exact asymptotics of the correlation function are proved for the critical Ising model in dimensions $d\le 4$, when the interaction kernel is $(-\Delta_R)^{d/4}$, where $\Delta_R$ is the spread-out Laplacian with radius $R$. In particular, when $d=4$, the model is an ordinary Ising model with the nearest-neighbour interaction replaced by a finite spread-out interaction. 
+  - [Subproject 1](https://github.com/jiwoonGit/phi4/tree/main/fractional_spread_out_ising_rg): The exact asymptotics of the correlation function are proved for the critical Ising model in dimensions $d\le 4$, when the interaction kernel is $(-\Delta_R)^{d/4}$, where $\Delta_R$ is the spread-out Laplacian with radius $R$. In particular, when $d=4$, the model is an ordinary Ising model with the nearest-neighbour interaction replaced by a finite spread-out interaction. 
   
 ## Other writings
 
