@@ -60,11 +60,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Public Projects
 
-- [Ising model and $\phi^4$ model](https://github.com/jiwoonGit/phi4)
+- [Ising and lattice φ⁴ models](https://github.com/jiwoonGit/phi4)
   - [Correlation function of the fractional spread-out Ising models at their upper critical dimension and critical temperature](./fractional-spread-out-ising.html)
-    - For sufficiently large fixed spread radius, the critical free two-point function is asymptotic to a positive constant times $|x|^{-d/2}$ in dimensions $1\le d\le 4$.
+    - For sufficiently large fixed spread radius, the critical free two-point function decays with exponent d/2 in dimensions 1 through 4.
   - [The critical two-point function of lattice φ⁴₂](./critical-phi4.html)
-    - For sufficiently large quartic coupling, the critical free two-point function of the nearest-neighbor square-lattice model is asymptotic to a positive constant times $|x|^{-1/4}$.
+    - For sufficiently large quartic coupling, the critical free two-point function of the nearest-neighbor square-lattice model decays with the Ising exponent 1/4.
 
 ## Other writings
 
