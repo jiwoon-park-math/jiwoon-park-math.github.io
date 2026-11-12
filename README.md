@@ -61,11 +61,11 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Public Projects
 
 - [Ising model and $\phi^4$ model](https://github.com/jiwoonGit/phi4)
-  - [Subproject 1](https://github.com/jiwoonGit/phi4/tree/main/fractional_spread_out_ising_rg)
-    - Correlation function of the fractional spread-out Ising models at their upper critical dimension and critical temperature: This manuscript proves that the Ising model with spread-out interaction in dimension 4 attains correlation decay asymptotic to $\|x\|^{-2}$. Analogous results are proved in dimensions $\le 3$, with a fractional spread-out Laplacian.
-  - [Subproject 2](https://github.com/jiwoonGit/phi4/tree/main/critical_phi42)
-    - The critical two-point function of lattice $\phi^4_2$: This manuscript proves that the critical lattice $\phi^4_2$ model attains correlation function asymptotic to $\|x\|^{-1/4}$.
-  
+  - [Correlation function of the fractional spread-out Ising models at their upper critical dimension and critical temperature](./fractional-spread-out-ising.html)
+    - For sufficiently large fixed spread radius, the critical free two-point function is asymptotic to a positive constant times $|x|^{-d/2}$ in dimensions $1\le d\le 4$.
+  - [The critical two-point function of lattice φ⁴₂](./critical-phi4.html)
+    - For sufficiently large quartic coupling, the critical free two-point function of the nearest-neighbor square-lattice model is asymptotic to a positive constant times $|x|^{-1/4}$.
+
 ## Other writings
 
 - [Universal finite-size scaling in high-dimensional critical phenomena](https://journals.aps.org/pre/abstract/10.1103/xq7j-zll9)
