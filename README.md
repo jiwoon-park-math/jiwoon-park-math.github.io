@@ -61,10 +61,10 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 ## Public Projects
 
 - [Ising and lattice φ⁴ models](https://github.com/jiwoonGit/phi4) [![DOI](https://zenodo.org/badge/1449114649.svg)](https://doi.org/10.5281/zenodo.24167641)
-  - [Pseudocritical point of the spread-out Ising model with free boundaries at the upper critical dimension in 1 ≤ d ≤ 4](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-dim-extension.pdf)
-    - For sufficiently large fixed spread radius, the susceptibility in a free-boundary cube of volume *V* is of order √(*V* log *V*) at the inverse temperature where the effective potential of the principal mode has zero curvature.
-  - [Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-obs-extension.pdf)
-    - At the same pseudocritical point, consider the spin field tested against a smooth, nonzero function that vanishes on the boundary. The standardised spin sum has a quartic limiting law if the test overlaps the continuum ground state and a standard Gaussian limit if it is orthogonal.
+  - [Pseudocritical point of the spread-out Ising model with free boundaries](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-dim-extension.pdf)
+    - Constructs an RG for the spread-out Ising model with free boundary condition and its pseudocritical point for the finite-size scaling.
+  - [Finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-obs-extension.pdf)
+    - At the pseudocritical point, computes the moment generating function in two different finite-size scaling regimes: non-Gaussian and Gaussian.
   - [Correlation function of the fractional spread-out Ising models at their upper critical dimension and critical temperature](./fractional-spread-out-ising.html)
     - For sufficiently large fixed spread radius, the critical free two-point function decays with exponent d/2 in dimensions 1 through 4.
   - [The critical two-point function of lattice φ⁴₂](./critical-phi4.html)
