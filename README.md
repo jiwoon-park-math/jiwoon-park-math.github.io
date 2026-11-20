@@ -60,7 +60,7 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Public Projects
 
-- [Critical correlations and finite-size scaling in Ising and lattice φ⁴ models](https://github.com/jiwoonGit/phi4) [![DOI](https://zenodo.org/badge/1449114649.svg)](https://doi.org/10.5281/zenodo.24167641)
+- [Ising and lattice φ⁴ models](https://github.com/jiwoonGit/phi4) [![DOI](https://zenodo.org/badge/1449114649.svg)](https://doi.org/10.5281/zenodo.24167641)
   - [Pseudocritical point of the spread-out Ising model with free boundaries at the upper critical dimension in 1 ≤ d ≤ 4](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-dim-extension.pdf)
     - For sufficiently large fixed spread radius, the susceptibility in a free-boundary cube of volume *V* is of order √(*V* log *V*) at the inverse temperature where the effective potential of the principal mode has zero curvature.
   - [Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-obs-extension.pdf)
