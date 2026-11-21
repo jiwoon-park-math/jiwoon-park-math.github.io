@@ -60,10 +60,10 @@ I work with [renormalisation group](https://en.wikipedia.org/wiki/Renormalizatio
 
 ## Public Projects
 
-- [Ising and lattice φ⁴ models](https://github.com/jiwoonGit/phi4) [![DOI](https://zenodo.org/badge/1449114649.svg)](https://doi.org/10.5281/zenodo.24167641)
-  - [Pseudocritical point of the spread-out Ising model with free boundaries](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-dim-extension.pdf)
+- [Ising and lattice φ⁴ models](https://github.com/jiwoonGit/jiwoon_math) [![DOI](https://zenodo.org/badge/1449114649.svg)](https://doi.org/10.5281/zenodo.24167641)
+  - [Pseudocritical point of the spread-out Ising model with free boundaries at the upper critical dimension in 1 ≤ d ≤ 4](./free-boundary-pseudocritical-point.html)
     - Constructs an RG for the spread-out Ising model with free boundary condition and its pseudocritical point for the finite-size scaling.
-  - [Finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point](https://github.com/jiwoonGit/phi4/blob/main/FSS/FSS_FBC-obs-extension.pdf)
+  - [Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point](./free-boundary-spin-observables.html)
     - At the pseudocritical point, computes the moment generating function in two different finite-size scaling regimes: non-Gaussian and Gaussian.
   - [Correlation function of the fractional spread-out Ising models at their upper critical dimension and critical temperature](./fractional-spread-out-ising.html)
     - For sufficiently large fixed spread radius, the critical free two-point function decays with exponent d/2 in dimensions 1 through 4.

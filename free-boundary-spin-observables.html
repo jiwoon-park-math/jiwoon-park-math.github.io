@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point | Jiwoon Park</title>
+  <meta name="description" content="At the free-boundary pseudocritical point, spin sums in the spread-out Ising model have quartic or Gaussian limits according to their overlap with the continuum ground state.">
+  <link rel="canonical" href="https://jiwoon-park-math.github.io/free-boundary-spin-observables.html">
+  <meta name="citation_title" content="Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point">
+  <meta name="citation_author" content="Park, Jiwoon">
+  <meta name="citation_publication_date" content="2026/11/20">
+  <meta name="citation_pdf_url" content="https://jiwoon-park-math.github.io/free-boundary-spin-observables.pdf">
+  <link rel="alternate" type="application/pdf" href="https://jiwoon-park-math.github.io/free-boundary-spin-observables.pdf">
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      max-width: 45rem;
+      margin: 2.5rem auto;
+      padding: 0 1.25rem;
+    }
+    h1 { line-height: 1.2; }
+    h2 { margin-top: 1.8rem; }
+    .equation { text-align: center; }
+  </style>
+</head>
+<body>
+  <main>
+    <nav aria-label="Research homepage"><a href="./">Research homepage</a></nav>
+    <article>
+      <header>
+        <h1>Gaussian and non-Gaussian finite-size scalings of the spread-out Ising model at the free-boundary pseudocritical point</h1>
+        <p>Jiwoon Park<br><time datetime="2026-11-20">November 20, 2026</time></p>
+        <p><a href="free-boundary-spin-observables.pdf">Manuscript PDF</a> · <a href="https://github.com/jiwoonGit/jiwoon_math/blob/main/FSS/FSS_FBC-obs-extension.tex">LaTeX source on GitHub</a> · <a href="https://github.com/jiwoonGit/jiwoon_math">Research repository</a></p>
+      </header>
+      <h2>Abstract</h2>
+      <p>For the critical weakly coupled |φ|<sup>4</sup> model with periodic boundary conditions, Park <a href="https://arxiv.org/abs/2511.06321" aria-label="Reference 10, Park">[10]</a> showed that only the constant mode has enhanced fluctuations. Motivated by the shifted free-boundary critical window established by Michta, Park, and Slade <a href="https://doi.org/10.1002/cpa.22256" aria-label="Reference 13, Michta, Park and Slade">[13]</a> for the hierarchical model, we study the spread-out Ising model at its free-boundary pseudocritical point. At the upper critical dimension we determine the exponential moments of the spin field tested against smooth real-valued functions vanishing on the boundary. For a nonzero test, the spin sum divided by its standard deviation has a quartic limiting law if the test overlaps the ground state and a standard Gaussian limit if it is orthogonal. In four dimensions the orthogonal susceptibility has order <i>n</i><sup>2</sup> in a box of side <i>n</i>, the scale obtained by Camia, Jiang, and Newman <a href="https://doi.org/10.1007/s00440-021-01041-9" aria-label="Reference 11, Camia, Jiang and Newman">[11]</a> at bulk criticality under a mean-field two-point hypothesis. The lowest sine and the (3, 1, 1, 1) sine have different limiting laws, so it provides a counterevidence to the all-odd classification of Flores-Sola, Berche, Kenna, and Weigel <a href="https://doi.org/10.1103/PhysRevLett.116.115701" aria-label="Reference 2, Flores-Sola, Berche, Kenna and Weigel">[2]</a>.</p>
+      <h2>Main theorem</h2>
+      <p>Fix <i>d</i> ∈ {1, 2, 3, 4} and a sufficiently large spread radius <i>R</i>. Consider the spread-out Ising model with interaction (−Δ<sub>R</sub>)<sup>d/4</sup> in the free box Λ = {1, …, <i>n</i>}<sup>d</sup> at its <a href="free-boundary-pseudocritical-point.html">pseudocritical inverse temperature</a>. Let <i>F</i> be a nonzero, smooth, real-valued function on the closed unit cube that vanishes on its faces. Write <i>w</i> for the unit ground state of the continuum operator on the cube. Test the spin field with the weighted sum</p>
+      <p class="equation"><i>X</i><sub>n</sub> = (<i>n</i> + 1)<sup>−d/2</sup> ∑<sub>x ∈ Λ</sub> <i>F</i>(<i>x</i>/(<i>n</i> + 1)) σ<sub>x</sub>.</p>
+      <p>As the side length <i>n</i> tends to infinity, the overlap of <i>F</i> with <i>w</i> determines the variance and limiting law.</p>
+      <ul>
+        <li>If ⟨<i>F</i>, <i>w</i>⟩ ≠ 0, the variance has order <i>n</i><sup>d/2</sup>√(log <i>n</i>). The spin sum divided by its standard deviation converges in law to the quartic distribution with density proportional to exp(−<i>x</i><sup>4</sup>/4), rescaled to unit variance.</li>
+        <li>If ⟨<i>F</i>, <i>w</i>⟩ = 0, the variance has order <i>n</i><sup>d/2</sup> and the spin sum divided by its standard deviation converges in law to a standard Gaussian.</li>
+      </ul>
+    </article>
+  </main>
+</body>
+</html>
